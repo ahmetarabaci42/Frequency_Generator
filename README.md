@@ -14,7 +14,7 @@ Design of a Frequency Generator circuit that we can receive Square, Triangular a
 
 - 100K , 5.1K , 3.16K, 1.8K, 2.7K and 1K Resistor
 - 100K and 10K Potantiemeter
-- 1nF Capacitor But this capacitor will not be an electrolyte capacitor. It will be a non-polarised capacitor because I couldn't find the right component. I ordered it without assembly. I will solder the right capacitor.
+- (!!!İMPORTANT) 1nF Capacitor But this capacitor will not be an electrolyte capacitor. It will be a non-polarised capacitor because I couldn't find the right component. I ordered it without assembly. I will solder the right capacitor.
 
 ## Active Components:
 
