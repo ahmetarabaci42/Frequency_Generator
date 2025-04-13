@@ -2,7 +2,7 @@
 
 Design of a Frequency Generator circuit that we can receive Square, Triangular and Sinusoidal signals. 
 
-![image.png](attachment:e0aa2e1e-dbbd-43ad-bb61-7d9751ee6a9e:image.png)
+![image](https://github.com/user-attachments/assets/8636d925-a293-47de-b49f-a3c4939bbfdc)
 
 # *Used Materials:*
 
@@ -29,10 +29,11 @@ Design of a Frequency Generator circuit that we can receive Square, Triangular a
 
 This is the PCB I designed myself, but I can't be too sure. If there are people who are experts in PCB, they can contact me and tell me the mistakes I made.
 
-![image.png](attachment:cfd652be-2330-4f57-a812-cba7ddb7eeb7:image.png)
+![image](https://github.com/user-attachments/assets/ea1d838d-c8c7-4c83-bc22-66898c458850)
 
-![image.png](attachment:bdbdce51-3e8b-47a3-b4f4-a5bb1aeeba99:image.png)
+![image](https://github.com/user-attachments/assets/4885d5a8-4de5-4efa-b764-be1dd1d6d531)
 
-![image.png](attachment:de1543b5-c2ae-4302-a7cb-aed27b940bde:image.png)
+![image](https://github.com/user-attachments/assets/bf8a5c9f-c89d-422b-9032-79e62a415930)
 
-![image.png](attachment:143d6f68-c5d9-47a7-8c60-175c59e32a50:image.png)
+![image](https://github.com/user-attachments/assets/c6067558-c3d1-4557-a73e-cbebe2aaa7ee)
+
